@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "ios-client-sdk",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/launchdarkly/ios-client-sdk",
+      "state" : {
+        "revision" : "ee405084c5e06f7f0caa3c13bccc997f3574cbf3",
+        "version" : "6.2.0"
+      }
+    },
+    {
+      "identity" : "swift-eventsource",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/LaunchDarkly/swift-eventsource.git",
+      "state" : {
+        "revision" : "e642325895537dfe0d72fdf2df62ae0f9ddc1e35",
+        "version" : "2.0.0"
+      }
+    }
+  ],
+  "version" : 2
+}
